@@ -1,0 +1,286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"F",
+				"F4"
+			],
+			[
+				"cla",
+				"Class"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"for",
+				"for"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ipc",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IPC",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/OneDrive/clash配置/FreedFQ.yaml",
+		"/D/Desktop/tongwenfeng.trime.yaml",
+		"/D/RIME/weasel.custom.yaml",
+		"/D/RIME/default.custom.yaml",
+		"/D/Rime-See-Me-master/js/script.js",
+		"/D/Program Files (x86)/Rime/weasel-0.14.3/data/default.yaml",
+		"/D/Program Files (x86)/Rime/weasel-0.14.3/data/weasel.yaml",
+		"/D/Program Files (x86)/Rime/weasel-0.14.3/data/cangjie5_express.schema.yaml",
+		"/D/Downloads/Telegram Desktop/配置文件.yaml",
+		"/D/Rime-See-Me-master/index.html",
+		"/D/RIME/customize.recipe.yaml",
+		"/D/RIME/user.yaml",
+		"/D/Desktop/trime.yaml",
+		"/D/Downloads/Documents/报道证.pdf",
+		"/D/Program Files (x86)/Rime/weasel-0.14.3/data/key_bindings.yaml",
+		"/D/Program Files (x86)/Rime/weasel-0.14.3/data/terra_pinyin.dict.yaml",
+		"/D/Program Files (x86)/Rime/weasel-0.14.3/data/terra_pinyin.schema.yaml",
+		"/D/RIME/luna_pinyin.custom.yaml",
+		"/D/RIME/luna_pinyin.extended.dict.yaml",
+		"/D/RIME/luna_pinyin.cn_en.dict.yaml",
+		"/D/RIME/leslie.dict.yaml",
+		"/D/RIME/easy_en.yaml",
+		"/D/RIME/easy_en.schema.yaml",
+		"/D/RIME/easy_en.dict.yaml",
+		"/D/RIME/dieziu.yaml",
+		"/D/Documents/WeChat Files/wxid_xmsb2wojb4ou22/FileStorage/File/2021-07/tongwenfeng.trime.yaml",
+		"/D/Desktop/luna_pinyin.custom.yaml",
+		"/D/Desktop/default.custom.yaml",
+		"/D/Desktop/default.yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/default[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/tongwenfeng.trime[2].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/default[2].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/default.custom[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/default.custom[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/installation[2].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/luna_pinyin.custom[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/default[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/user[1].yaml",
+		"/D/Desktop/luna_pinyin.schema.yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/user[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/leslie.dict[2].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/pinyin[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/installation[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/luna_pinyin.schema[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/leslie.dict[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/tongwenfeng.trime[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C5834DF/default.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C539FFF/customize.recipe.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C5FB6EF/clover.key_bindings.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C58519D/user.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C5FA54F/zhengma.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C52005F/weasel.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C55718E/weasel.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C5FD6DE/user.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C5A775E/key_bindings.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C51676E/weasel.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C5D94AD/symbols.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C5D9D6D/weasel.custom.yaml",
+		"/D/Desktop/CHERRY-红白-机械键盘-小先生［同文版］.trime.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0C526CBC/default.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO06393985/trime.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0B4B2920/同文风.trime.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0B46A0C0/THUOCL_poem.dict.yaml",
+		"/D/Documents/WeChat Files/wxid_xmsb2wojb4ou22/FileStorage/File/2021-07/trime.yaml",
+		"/D/Desktop/trime.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0B470AF0/customize.recipe.yaml",
+		"/D/Desktop/test.trime.yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/I3J0ZXP8/trime[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Microsoft/Windows/INetCache/IE/7S00EIST/trime[1].yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO8E435153/customize.recipe.yaml",
+		"/D/RIME/build/luna_pinyin.schema.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO4B86CDAF/double_pinyin.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO4B8C40DF/double_pinyin.custom.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO4B8A886E/luna_pinyin.poetry.dict.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO4B8AEF3D/luna_pinyin.hanyu.dict.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0B88D113/easy_en.dict.yaml",
+		"/D/Program Files (x86)/Rime/weasel-0.14.3/data/luna_pinyin.schema.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0B814AD4/customize.recipe.yaml",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zE0B8B7B23/easy_en.dict.yaml",
+		"/E/dd.java",
+		"/C/Users/LeslieH/AppData/Local/Temp/7zO0B837F02/easy_en.yaml",
+		"/D/Downloads/Compressed/Dism++10.1.1001.10_d4ba4eb035254b3326d6adc6638bc9c8daea7018.zip",
+		"/E/demo.java",
+		"/E/1.c",
+		"/E/more.c",
+		"/C/Users/LeslieH/AppData/Roaming/Sublime Text/Packages/ZZZZZZZZ-Localization/Main.sublime-menu",
+		"/C/Users/LeslieH/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/LeslieH/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/E/DEMO.C",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/LeslieH/AppData/Roaming/Sublime Text/Packages/User/C++.sublime-build",
+		"/C/Users/LeslieH/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
