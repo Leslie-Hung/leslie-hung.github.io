@@ -2,7 +2,7 @@
         $username = $_GET["username"]; //You have to get the form data
         $email = $_GET["email"];
         $message = $_GET["message"];
-        $file = fopen('configurationSettings.txt', 'a'); //Open your .txt file
+        $file = fopen('https://github.com/Leslie-Hung/leslie-hung.github.io/blob/main/configurationSettings.txt', 'a'); //Open your .txt file
         /*ftruncate($file, 0); //Clear the file to 0bit*/
         $content = $username. PHP_EOL .$email. PHP_EOL .$message;
         fwrite($file , $content); //Now lets write it in there
