@@ -1,7 +1,7 @@
     <?php
-        $username = $_POST["username"]; //You have to get the form data
-        $email = $_POST["email"];
-        $message = $_POST["message"];
+        $username = $_GET["username"]; //You have to get the form data
+        $email = $_GET["email"];
+        $message = $_GET["message"];
         $file = fopen('configurationSettings.txt', 'a'); //Open your .txt file
         /*ftruncate($file, 0); //Clear the file to 0bit*/
         $content = $username. PHP_EOL .$email. PHP_EOL .$message;
