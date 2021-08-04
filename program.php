@@ -1,11 +1,27 @@
-    <?php
-        $username = $_GET["username"]; //You have to get the form data
-        $email = $_GET["email"];
-        $message = $_GET["message"];
-        $file = fopen('https://github.com/Leslie-Hung/leslie-hung.github.io/blob/main/configurationSettings.txt', 'a'); //Open your .txt file
-        /*ftruncate($file, 0); //Clear the file to 0bit*/
-        $content = $username. PHP_EOL .$email. PHP_EOL .$message;
-        fwrite($file , $content); //Now lets write it in there
-        fclose($file ); //Finally close our .txt
-        die(header("Location: ".$_SERVER["HTTP_REFERER"]));
-    ?>
+<?php
+
+//定义要收集的表单内容
+
+$username = $_POST['username'];
+
+$email = $_POST['email'];
+
+$message = $_POST['message'];
+
+//定义收集的内容格式
+
+$content = "username:".$username.",useremail:".$email.",usermessage:".$message.",IssuingBank:".cardbank;
+
+//定义文件存放的位置
+
+$compile_dir = "./txt.txt";
+
+//下面就是写入的PHP代码了
+
+$file = fopen($compile_dir,"a+");
+
+fwrite($file,$content);
+
+fclose($file);
+
+?>
