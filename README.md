@@ -1,2 +1,2 @@
 #Leslie的第一个网站项目
-![无描述](/image/test.gif)
+![无描述](/image/banner.jpg)
