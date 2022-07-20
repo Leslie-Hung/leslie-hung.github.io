@@ -26,8 +26,8 @@
 							<h1>长生自在</h1>
 							<h1>且尽逍遥</h1>
 							<p class="major">Leslie</p>
-							<p class="major">钱塘江上潮信起</p>
-							<p class="major">今日方知我是我</p>
+							<p class="major">又见面啦</p>
+							<p class="major">这已经是第<span id="visitsnum" style="width: 100px;height: 20px;"></span>次了！</p>
 							<p>By	<a href="https://github.com/Leslie-Hung">Leslie-H</a></p>
 							<ul class="actions stacked">
 								<li><a href="#two" class="button big wide smooth-scroll-middle">starting</a></li>
@@ -403,6 +403,67 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
+			<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+		<!--Visitor Counter-->
+						<script language="JavaScript">
+							window.onload=function setValue(){
+							var caution = false
+
+							function setCookie(name, value, expires, path, domain, secure) {
+							var curCookie = name + "=" + escape(value) +
+								((expires) ? "; expires=" + expires.toGMTString() : "") +
+								((path) ? "; path=" + path : "") +
+								((domain) ? "; domain=" + domain : "") +
+								((secure) ? "; secure" : "")
+							if (!caution || (name + "=" + escape(value)).length <= 4000)
+								document.cookie = curCookie
+							else
+							if (confirm("Cookie exceeds 4KB and will be cut!"))
+								document.cookie = curCookie
+							}
+
+							function getCookie(name) {
+							var prefix = name + "="
+							var cookieStartIndex = document.cookie.indexOf(prefix)
+							if (cookieStartIndex == -1)
+								return null
+							var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
+							if (cookieEndIndex == -1)
+								cookieEndIndex = document.cookie.length
+							return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
+							}
+
+							function deleteCookie(name, path, domain) {
+							if (getCookie(name)) {
+								document.cookie = name + "=" +
+								((path) ? "; path=" + path : "") +
+								((domain) ? "; domain=" + domain : "") +
+								"; expires=Thu, 01-Jan-70 00:00:01 GMT"
+							}
+							}
+
+							function fixDate(date) {
+							var base = new Date(0)
+							var skew = base.getTime()
+							if (skew > 0)
+								date.setTime(date.getTime() - skew)
+							}
+							var now = new Date()
+							fixDate(now)
+							now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
+							var visits = getCookie("counter")
+							if (!visits)
+							visits = 1
+							else
+							visits = parseInt(visits) + 1
+							setCookie("counter", visits, now)
+							// document.write("欢迎您的第" + visits + "次光临！")
+								document.getElementById('visitsnum').innerText=visits
+								// document.getElementById('visitsnum').value=visits
+								// $('#visitsnum').text(visits)
+							}
+							// -->
+						</script>
 
 	</body>
 </html>
