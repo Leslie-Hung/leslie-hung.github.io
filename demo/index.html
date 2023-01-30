@@ -23,14 +23,14 @@ margin:0;
 </head>
 <body>
   <div class="v-container" >
-		<video id="player1"  autoplay="autoplay" preload="auto" controls="controls"  >
+    <video class="video" id="videoElement" muted></video>
 		</video>
   </div>
 </body>
 </html>
 <script>
     if (flvjs.isSupported()) {
-        var videoElement = document.getElementById('player1');
+        var videoElement = document.getElementById('videoElement');
 		var flvPlayer = flvjs.createPlayer({
             type: 'flv',
             url: 'https://huawei.factor80.cn:58080/live/lesliehung.flv'
